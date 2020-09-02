@@ -14,17 +14,6 @@ import re
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier
-from sklearn import svm
-from sklearn.linear_model import LogisticRegression
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.model_selection import ShuffleSplit
-
-from pprint import pprint
-from sklearn.model_selection import RandomizedSearchCV
-from sklearn.model_selection import GridSearchCV
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.metrics import classification_report, confusion_matrix, accuracy_score, f1_score
 
 from collections import Counter
 from itertools import chain 
