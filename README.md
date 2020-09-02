@@ -25,7 +25,6 @@ Labelled tweets resulted in 511 tweets for class Non_R (Non Racism)  and 175 twe
 Since this dataset is imbalanced, you can do under-sampling to create balanced dataset.
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * Python
 
 <!-- GETTING STARTED -->
