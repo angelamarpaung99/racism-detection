@@ -46,9 +46,10 @@ You can run the python script file "Racism Detection.py"
 ```sh
 git clone https://github.com/angelamarpaung99/racism-detection.git
 ```
-
-2. Enter your own location path of dataset in `Racism Detection.py` or `Racism Detection.ipynb` in this line of code
-``` df = pd.read_csv(<FILE PATH LOCATION>, sep=',')
+2. Enter your own location path of dataset in
+`Racism Detection.py` or `Racism Detection.ipynb` in this line of code
+``` 
+df = pd.read_csv(<FILE PATH LOCATION>, sep=',') 
 ```
 
 <!-- CONTRIBUTING -->
