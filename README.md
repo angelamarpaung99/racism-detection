@@ -69,7 +69,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Angela Marpaung - angelamarpaung99@gmail.com
 
-Project Link: [https://github.com/angelamarpaung99/course-on-demand.git](https://github.com/angelamarpaung99/course-on-demand.git)
+Project Link: [https://github.com/angelamarpaung99/racism-detection.git](https://github.com/angelamarpaung99/racism-detection.git)
 
 
 
